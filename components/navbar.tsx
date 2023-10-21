@@ -15,7 +15,7 @@ import {
 
 export default function Navbar({}): any {
   return (
-    <nav className="w-full backdrop-blur-md bg-white bg-opacity-30 z-50 fixed h-24 flex justify-between items-center py-10 px-4 md:px-8 lg:px-12 xl:px-16 2xl:px-24">
+    <nav className="w-full backdrop-blur-sm bg-white bg-opacity-30 z-50 fixed h-24 flex justify-between items-center py-10 px-4 md:px-8 lg:px-12 xl:px-16 2xl:px-24">
       <Link href="/">
         <Image
           alt="logo"
@@ -40,10 +40,10 @@ export default function Navbar({}): any {
           </Button>
         </Link>
       </div>
-      <Link href="https://github.com/benlhachemi/modifio.git">
+      <Link href="https://github.com/benlhachemi/modifio.git" target='_blank'>
         <Button
           variant="default"
-          className="rounded-full w-fit bg-orange-600 gap-2 items-center hidden md:flex"
+          className="rounded-full w-fit bg-primary gap-2 items-center hidden md:flex"
           size="lg"
         >
           <span>Github Repo</span>
