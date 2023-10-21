@@ -6,12 +6,19 @@
 **✅WebAssembly**
 **✅FFMEG**
 
-👉 [Live Demo](https://modifio.vercel.app/) 👈
+Ola pessoal eu sou o **Rui Marcos**, contribui para a criação de um exectável deste projecto, caso queiras saber mais sobre mim, esse é  meu linkedIn:  [Rui Marcos João](https://www.linkedin.com/in/rui-marcos-joao/)
 
-👉 [Check out this YouTube video about the project](https://youtu.be/ypYw6Cm6cUk) 👈
+👉 [Live Demo Original App - Aplicativo original](https://modifio.vercel.app/) 👈
 
-![HomePage](https://i.imgur.com/SCTf3Ce.png)
+👉 [Check out this LinkedIn video about the project](https://www.linkedin.com/posts/rui-marcos-joao_ol%C3%A1-comunidade-dev-daqui-mais-uma-vez-%C3%A9-activity-7121462489824788480-t4Z8?utm_source=share&utm_medium=member_desktop) 👈
 
-![Convert page](https://i.imgur.com/6HgYaut.png)
+![HomePage](/public/images/convert%20page.png)
 
-![Convert options](https://i.imgur.com/2B5uU9h.png)
+![Convert page](/public/images/convert%20files.png)
+
+
+| Tipo de Download      | Link                                          |
+|-----------------------|-----------------------------------------------|
+| Download Executável  | [Download Executable](/src-tauri/target/release/Modifio.exe) |
+| Download MSI          | [Download MSI](/src-tauri/target/release/bundle/msi/Modifio_0.1.0_x64_en-US.msi) |
+| Download NSIS         | [Download NSIS](/src-tauri/target/release/bundle/nsis/Modifio_0.1.0_x64-setup.exe) |
